@@ -1,3 +1,13 @@
+**This branch is not intended to merge**, but rather, to be referenced in by gemfiles for apps
+needing support for ElasticSearch 7.
+
+When chewy officially supports ElasticSearch 7 and publishes a gem version supporting it, this fork
+should be removed and apps should switch back to the chewy gem.
+
+
+--------------------------------
+
+
 [![Gem Version](https://badge.fury.io/rb/chewy.svg)](http://badge.fury.io/rb/chewy)
 [![Build Status](https://travis-ci.org/toptal/chewy.svg)](https://travis-ci.org/toptal/chewy)
 [![Code Climate](https://codeclimate.com/github/toptal/chewy.svg)](https://codeclimate.com/github/toptal/chewy)
